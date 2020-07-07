@@ -1,4 +1,4 @@
-<h1>MysteryBoxVN<img src="https://i.gifer.com/7XFj.gif" height="64" width="64" align="left"></img></h1>
+<h1>MysteryBoxVN<img src="https://i.imgur.com/6Fk5f3G.gif" height="64" width="64" align="left"></img></h1>
 
 + Plugin MysteryBox dành cho người Việt! Đã được việt hóa 100%.
 + Nguồn: https://github.com/CubePM/MysteryBox
@@ -10,7 +10,7 @@
 ``Các bạn có thể đọc thêm lệnh bằng link nguồn mình để ở trên``
 
 # Youtube
-[![ĐĂNG KÍ ỦNG HỘ TUI ĐI :<](https://img.youtube.com/vi/mnNyDC6CfhI0.jpg)](https://youtu.be/mnNyDC6CfhI "ĐĂNG KÍ ỦNG HỘ TUI ĐI :<")
+[![ĐĂNG KÍ ỦNG HỘ TUI ĐI :<](https://img.youtube.com/vi/mnNyDC6CfhI/0.jpg)](https://youtu.be/mnNyDC6CfhI "ĐĂNG KÍ ỦNG HỘ TUI ĐI :<")
 
 # Làm thế nào để cài đặt ?
 1. Tải plugin từ đường link Releases ở bên dưới. (Chọn 1 trong 2 định dạng ZIP & PHAR để tải.)
