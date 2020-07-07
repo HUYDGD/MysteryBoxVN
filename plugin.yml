@@ -1,0 +1,20 @@
+---
+name: MysteryBox
+version: 1.0.0
+api:
+- 3.0.0
+author: TheAz928
+translator: WolfTubeTM
+main: mysterybox\Core
+description: "Mystery Box - Hộp quà bí ẩn!"
+commands:
+  mysterybox:
+    aliases: ["mb", "mbx"]
+    permission: "mysterybox.command"
+    description: "Mystery Box - Lệnh dành cho admin."
+
+permissions:
+  mysterybox.command:
+    default: op
+    description: "Permission cho người chơi sử dụng lệnh /mysterybox command"
+...
