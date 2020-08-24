@@ -1,4 +1,4 @@
-<h1>MysteryBoxVN<img src="https://i.imgur.com/6Fk5f3G.gif" height="64" width="64" align="left"></img></h1>
+<h1>MysteryBoxVN<img src="https://www.deviantart.com/vitro137/art/Minecraft-Chest-Open-and-Closing-449453049" height="64" width="64" align="left"></img></h1>
 
 + Plugin MysteryBox dành cho người Việt! Đã được việt hóa 100%.
 + Nguồn: https://github.com/CubePM/MysteryBox
