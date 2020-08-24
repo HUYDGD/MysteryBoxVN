@@ -1,4 +1,4 @@
-<h1>MysteryBoxVN<img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/0d7c2249-7c01-4f34-b099-f98e5cc8be4a/d7flc6x-63bcf9f3-5b22-4c71-a915-ae0d74302ebf.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3sicGF0aCI6IlwvZlwvMGQ3YzIyNDktN2MwMS00ZjM0LWIwOTktZjk4ZTVjYzhiZTRhXC9kN2ZsYzZ4LTYzYmNmOWYzLTViMjItNGM3MS1hOTE1LWFlMGQ3NDMwMmViZi5naWYifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.JBz54avYkM2U7pcorXugLWF8_qlE5pxK1mk1xV_w728" height="64" width="64" align="left"></img></h1>
+<h1>MysteryBoxVN<img src="https://i.gifer.com/7AnI.gif" height="64" width="64" align="left"></img></h1>
 
 + Plugin MysteryBox dành cho người Việt! Đã được việt hóa 100%.
 + Nguồn: https://github.com/CubePM/MysteryBox
