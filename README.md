@@ -19,8 +19,8 @@
 4. XONG!!!
 
 # Thông báo
-##### Đã cập nhật vào: 26/5/2019.
-##### Phiên bản: v1.0 (VIETNAMESE VERSION)
+##### Đã cập nhật vào: 24/8/2019.
+##### Phiên bản: v1.0.1 (VIETNAMESE VERSION)
 ##### Tải về: https://github.com/GamerSoiCon/MysteryBoxVN/releases
 ```Mình đã ngừng việt hóa và cập nhật plugin này!```
 ```Vì vậy, plugin có thể gây lỗi cho server của bạn trong tương lai!```
