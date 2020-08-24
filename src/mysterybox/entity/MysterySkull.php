@@ -34,7 +34,7 @@ use pocketmine\event\entity\EntityDamageEvent;
 use pocketmine\level\sound\FizzSound;
 
 use pocketmine\network\mcpe\protocol\LevelSoundEventPacket;
-use pocketmine\network\mcpe\protocol\AddItemEntityPacket;
+use pocketmine\network\mcpe\protocol\AddItemActorPacket as AddItemEntityPacket;
 use pocketmine\network\mcpe\protocol\RemoveEntityPacket;
 
 use mysterybox\tile\MysteryTile;
