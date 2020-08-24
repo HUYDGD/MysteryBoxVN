@@ -35,7 +35,8 @@ use pocketmine\level\sound\FizzSound;
 
 use pocketmine\network\mcpe\protocol\LevelSoundEventPacket;
 use pocketmine\network\mcpe\protocol\AddItemActorPacket as AddItemEntityPacket;
-use pocketmine\network\mcpe\protocol\RemoveEntityPacket;
+use pocketmine\network\mcpe\protocol\DataPacket;
+use pocketmine\network\mcpe\protocol\RemoveActorPacket as RemoveEntityPacket;
 
 use mysterybox\tile\MysteryTile;
 
@@ -120,7 +121,7 @@ class MysterySkull extends Entity{
 			}
 			
 			if($this->item_eid !== -1){
-				$pk = new RemoveEntityPacket;
+				$pk = new RemoveEntityPacket();
 				$pk->entityUniqueId = $this->item_eid;
 				
 				$this->getLevel()->addChunkPacket($this->x >> 4, $this->z >> 4, $pk);
@@ -163,7 +164,7 @@ class MysterySkull extends Entity{
 				$this->ftp->setInvisible(true);
 				
 				if($this->item_eid !== -1){
-					$pk = new RemoveEntityPacket;
+					$pk = new RemoveEntityPacket();
 					$pk->entityUniqueId = $this->item_eid;
 				
 					$this->getLevel()->addChunkPacket($this->x >> 4, $this->z >> 4, $pk);
@@ -187,7 +188,7 @@ class MysterySkull extends Entity{
 			
 			$this->item_eid = Entity::$entityCount++;
 			
-			$pk  = new AddItemEntityPacket;
+			$pk = new AddItemEntityPacket();
 			$pk->entityRuntimeId = $this->item_eid;
 			$pk->item = $data[0];
 			$pk->position = $this->ftp->asVector3();
